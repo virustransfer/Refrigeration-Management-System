@@ -20,8 +20,8 @@ A modern HVAC marketplace web application built with Next.js.
 
 ## 📷 Preview
 
-Product Page:
-!(./images/worldcool.png)
+
+(./images/worldcool.png)
 
 ## 📍 Business Info
 
