@@ -1164,8 +1164,8 @@ function DashboardPage({ nav }) {
     <div className="cfh-page">
       <div style={{display:'flex',alignItems:'flex-start',justifyContent:'space-between',flexWrap:'wrap',gap:12,marginBottom:24}}>
         <div>
-          <div className="cfh-page-title">👋 Welcome back, Rajesh!</div>
-          <div className="cfh-page-subtitle">Here's your CoolFix Hub account overview</div>
+          <div className="cfh-page-title">👋 Welcome back, Bibas!</div>
+          <div className="cfh-page-subtitle">Here's your World Cool Refrigeration account overview</div>
         </div>
         <div style={{display:'flex',gap:10}}>
           <button className="cfh-btn btn-ghost btn-sm" onClick={() => nav('orders')}>📦 My Orders</button>
@@ -1574,7 +1574,7 @@ export default function CoolFixHub() {
           <button className="cfh-theme-btn" onClick={() => setDark(d => !d)}>
             {dark ? '☀️ Light Mode' : '🌙 Dark Mode'}
           </button>
-          <div className="cfh-user-avatar" onClick={() => nav('dashboard')} title="My Profile">RK</div>
+          <div className="cfh-user-avatar" onClick={() => nav('dashboard')} title="My Profile">BS</div>
         </div>
       </div>
 
