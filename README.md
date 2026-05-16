@@ -21,7 +21,7 @@ A modern HVAC marketplace web application built with Next.js.
 ## 📷 Preview
 
 
-(./images/worldcool.png)
+![Home Page](./images/worldcool.png)
 
 ## 📍 Business Info
 
@@ -38,4 +38,3 @@ Kathmandu, Nepal
 npm install
 npm run dev
 
-De
